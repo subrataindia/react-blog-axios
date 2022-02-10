@@ -51,7 +51,7 @@ This project is for beginner react learners. It is an updated version of [React 
 
 ---
 
-## Author
+## 👋 Author
 - [Subrat Sir](https://github.com/subratsir)
 
 ## 🤝 Contributing
