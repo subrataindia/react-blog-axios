@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-app-axios/static/css/main.e516053c.css",
+    "main.js": "/blog-app-axios/static/js/main.0d1aca32.js",
+    "index.html": "/blog-app-axios/index.html",
+    "main.e516053c.css.map": "/blog-app-axios/static/css/main.e516053c.css.map",
+    "main.0d1aca32.js.map": "/blog-app-axios/static/js/main.0d1aca32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e516053c.css",
+    "static/js/main.0d1aca32.js"
+  ]
+}
