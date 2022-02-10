@@ -1,7 +1,7 @@
 # React Blog App Using Axios
 This project is for beginner react learners. It is an updated version of [React Blog App](https://github.com/subratsir/blog-app). db.json file is used to store data. axios npm package is used for all curd operations.
 
-## [See it Live](#)
+## [See it Live](https://subratsir.github.io/blog-app-axios/)
 
 ## [About: Watch Video](#)
 
