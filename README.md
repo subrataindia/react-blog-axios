@@ -15,6 +15,14 @@ This project is for beginner react learners. It is an updated version of [React 
 
 ---
 
+Before running this project you should start the json server.
+
+~~~
+npx json-server -p 3500 -w data/db.json
+~~~
+
+---
+
 ### 🎓 Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
